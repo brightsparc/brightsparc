@@ -8,5 +8,5 @@ My name is Julian. I'm brightsparc on the internet 🌐.  I'm currently based in
 - 💬 Ask me about open roles we might have going.
 - 🌱 I’m interested in learning about the latest R&D in the ML infra 👨‍🔧  
 - 👯 I’m contributin to open source ML projects.
+- ⚡ Fun fact: I enjoy running around after my 3 kids 👨‍👩‍👧‍👦   and my dog 🐶 milo.
 - 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/julianbright/)
-- ⚡ Fun fact: I enjoy running around after my 3 kids 👨‍👩‍👧‍👦  and my dog 🐶 milo.
