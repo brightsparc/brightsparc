@@ -9,4 +9,4 @@ My name is Julian. I'm brightsparc on the internet 🌐.  I'm currently based in
 - 🌱 I’m interested in learning about the latest R&D in the ML infra 👨‍🔧  
 - 👯 I’m contributin to open source ML projects.
 - 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/julianbright/)
-- ⚡ Fun fact: I lived in the most locked down city in the world, and am now enjoying running around after my 3 kids 👨‍👩‍👧‍👦 and my dog 🐶 milo.
+- ⚡ Fun fact: I enjoy running around after my 3 kids 👨‍👩‍👧‍👦  and my dog 🐶 milo.
