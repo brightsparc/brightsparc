@@ -4,7 +4,7 @@ My name is Julian. I'm brightsparc on the internet 🌐.  I'm currently based in
 
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightsparc&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working remotely in a 🤫 Stealth 🤖 ML Startup
+- 🔭 I’m currently working remotely at 🤖 ML Startup Predibase.
 - 💬 Ask me about open roles we might have going.
 - 🌱 I’m interested in learning about the latest R&D in the ML infra 👨‍🔧  
 - 👯 I’m contributin to open source ML projects.
