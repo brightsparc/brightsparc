@@ -1,6 +1,6 @@
 ### Hello, Hola, Bonjour, As-Salaam-Alaikum, Niina Marni 👋
 
-My name is Julian. I'm brightsparc on the internet 🌐.  I'm currently based in Melbourne Australia 🇦🇺, working remotely on buliding next generative AI infrastructure at Predibase.  Previously, I worked as a Principal Solutions Architect at Amazon Web Serivces where I focused on helping customers on their MLOps journey.  Prior to that I was applied data scientist building search and recommendations products.   
+My name is Julian. I'm brightsparc on the internet 🌐.  I'm currently based in Melbourne Australia 🇦🇺, working remotely on buliding a Generative AI stealth startup for talent teams.  Previously I lead platform engineering remotely for [Predibase](https://predibase.com/), after 4 years at [Amazon Web Serivces where](https://aws.ai/) as a Principal Solutions Architect I focused on helping customers on their MLOps journey.  Prior to that I was applied data scientist building search and recommendations products.   
 
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brightsparc&show_icons=true&theme=tokyonight)
 
